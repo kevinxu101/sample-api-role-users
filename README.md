@@ -6,4 +6,4 @@ Clone, composer install, npm install, php artisan migrate db seed <br/>
 
 User Credentials <br/>
 Email : kevin.xu@benilde.edu.ph <br/>
-Password : 'inteli7Computer!'
+Password : inteli7Computer!
