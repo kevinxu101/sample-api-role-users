@@ -41,11 +41,5 @@ Route::get('user/delete',[UserController::class,'delete'])->middleware('auth:san
 Route::post('user/update',[UserController::class,'update'])->middleware('auth:sanctum');
 
 
-// Route::group(['prefix' => 'posts','middleware' => 'auth:sanctum'], function() {
-//     Route::get('/', [PostsController::class,'index']);
-//     Route::post('add', [PostsController::class,'add']);
-//     Route::post('update/{id}', [PostsController::class,'update']);
-//     Route::get('edit/{id}', [PostsController::class,'edit']);
-//     Route::delete('delete/{id}', [PostsController::class,'delete']);
-// });
+
 
