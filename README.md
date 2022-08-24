@@ -1,3 +1,6 @@
-Laravel video tutorials for beginner step by step available on https://www.youtube.com/channel/UCcX53DDXYR4Tlt2MucdxOkQ
+Xu Kevin 
+Date Submitted 08/24 2:13PM
 
-Laravel Vue js tutorials for beginner step by step available on https://youtube.com/playlist?list=PL74Mcm6qZK9_vaTS2OuqU8qn7F6foG6Xg
+User Credentials
+Email : kevin.xu@benilde.edu.ph
+Password : 'inteli7Computer!'
